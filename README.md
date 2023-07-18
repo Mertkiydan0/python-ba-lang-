@@ -1,0 +1,2 @@
+# python-ba-lang-
+başlangıç
