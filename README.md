@@ -150,10 +150,30 @@ setler de listeler ile hemen hemen aynıdır fakat listeler belirli değerleri t
 setler direkt olarak oluşturuluken my_set{} şeklinde oluşturulursa eğer python oluşturduğumuz seti sözlük olarak alıp dictionary sanacaktır. 
 bunu önlemek için de my_set = set() şeklinde boş bir set tanımlayabiliriz. Bu yöntemi ayrıca diğer veri yapıları için de kullanabiliriz.
 
-#TUPPLE
+#TUPLE
+verilen değişmesini istediğimiz örnekler için tuple kullanabiliriz.
 
+kullanımı çok yaygın değildir açık kaynak kodlu uygulamalarda genellikle kullanılır.
 
+tuple içindeki bir değerin kaç adet olduğunu öğrenmek için "my_tuple.count("öğrenmek istediğimiz değişken adı")"  kullanabiliriz.
 
+tuple içindeki bir değerin kaçıncı sırada olduğunu öğrenmek için "my_tuple.index("öğrenmek istediğimiz değişken adı")" kullanabiliriz.
+
+#BOOLEAN
+
+basit bir evet hayır veri yapısıdır.
+
+"True" ve "False" olarak kullanılır. Küçük yazılan "true" veya "false" kabul görülmez.
+ 
+ if else gibi sorgulamaya dayalı kontrollerde kullanılır.
+
+ matematiksel sorgulama işlemlerinde de kullanılır.
+ 
+#AND OR NOT KAVRAMI
+
+ve veya kavramı olarak da değerlendirilebilir.
+
+değerlerin doğruluğu için "and" kavramında iki değerinde de doğru olması gerekliyken "or"kavramı için sadece tek bir değerin doğru olması yeterlidir.
 
   
 çıktı almak için "print" ifadesini kullanırız.
